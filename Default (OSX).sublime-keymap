@@ -1,0 +1,4 @@
+[
+    {"keys": ["alt+up"], "command": "step_symbol_up"},
+    {"keys": ["alt+down"], "command": "step_symbol_down"}
+]
