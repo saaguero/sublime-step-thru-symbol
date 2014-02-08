@@ -3,13 +3,13 @@ Sublime Step Thru Symbol
 
 **sublime-step-thru-symbol** adds a different way to navigate thru the symbols in the current view.
 
-<img src="http://TODO" width="400"/>
+<img src="https://raw2.github.com/saaguero/sublime-step-thru-symbol/master/sublime_step_thru_symbol.gif" width="508"/>
 
 ## Installation
-```git clone TODO```
+`git clone https://github.com/saaguero/sublime-step-thru-symbol.git`
 
 ## Usage
-Instead of using the default symbols panel with `Ctrl + R` use `Alt + Up` and `Alt + Down`.
+Use `Alt + Up` and `Alt + Down` to navigate thru the symbols.
 
 ## Contributing
 Just some ideas:
